@@ -1,11 +1,5 @@
 # BlockRPG
 
-## 链接相关
-
-后台 api 地址:http://www.asm-l.cn:3015/swagger/index.html
-
-## 游戏说明
-
 基于动态地图的RPG游戏
 
 http两个接口分别是:
